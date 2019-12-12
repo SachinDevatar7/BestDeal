@@ -1,0 +1,711 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ProductCatalog>
+
+    <TvCatalog>
+    <tv id="Samsung55ClassLED">
+        <name>Samsung55ClassLED</name>
+        <price>379.99</price>
+        <image>sam1.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        
+        <accessories>
+            <accessory>xboxone_wc</accessory>
+            <accessory>xboxone_sh</accessory>
+            <accessory>xboxone_kg</accessory>
+            <accessory>xboxone_vb</accessory>
+            <accessory>xboxone_rs</accessory>
+            <accessory>xboxone_mp</accessory>
+            <accessory>xboxone_mc</accessory>
+            
+            
+        </accessories>
+    </tv>
+    <tv id="Samsung 2">
+        <name>Samsung - 75" Class - LED</name>
+        <price>1199.99</price>
+        <image>sam3.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>xbox360_wc</accessory>
+            <accessory>xbox360_sh</accessory>
+            <accessory>xbox360_vb</accessory>
+            <accessory>xbox360_rs</accessory>
+            <accessory>xbox360_mp</accessory>
+            <accessory>xbox360_kg</accessory>
+        </accessories>
+    </tv>
+
+    <tv id="Samsung 3">
+        <name>Samsung - 65" Class - LED</name>
+        <price>1399.99</price>
+        <image>sam4.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>ps4_wc</accessory>
+            
+        </accessories>
+    </tv>
+    <tv id="sony 4">
+        <name>Sony - 55 " Class - LED</name>
+        <price>699.99</price>
+        <image>sony1.jpg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>ps3_wc</accessory>
+            
+        </accessories>
+    </tv>
+    <tv id="sony 5">
+        <name>Sony - 75" Class - LED </name>
+        <price>1499.99</price>
+        <image>sony2.jpg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>nintendo_wc</accessory>
+            <accessory>nintendo_sh</accessory>
+        </accessories>
+    </tv>
+    <tv id="sony 6">
+        <name>Sony- 75" Class - LED</name>
+        <price>1999.99</price>
+        <image>sony3.jpg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>nintendo_wc</accessory>
+            <accessory>nintendo_sh</accessory>
+        </accessories>
+    </tv>
+    <tv id="LG 7">
+        <name>LG - 43" Class - LED </name>
+        <price>329.99</price>
+        <image>LG1.jpg</image>
+        <manufacturer>LG</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>nintendo_wc</accessory>
+            <accessory>nintendo_sh</accessory>
+        </accessories>
+    </tv>
+    <tv id="LG 8">
+        <name>LG - 60" Class - LED </name>
+        <price>499.99</price>
+        <image>LG2.jpg</image>
+        <manufacturer>LG</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>nintendo_wc</accessory>
+            <accessory>nintendo_sh</accessory>
+        </accessories>
+    </tv>
+    <tv id="LG 9">
+        <name>LG - 75" Class - LED </name>
+        <price>1799.99</price>
+        <image>LG3.jpg</image>
+        <manufacturer>LG</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>nintendo_wc</accessory>
+            <accessory>nintendo_sh</accessory>
+        </accessories>
+    </tv>
+    <tv id="TCL 10">
+        <name>TCL - 55" Class - LED </name>
+        <price>499.99</price>
+        <image>tcl1.jpg</image>
+        <manufacturer>TCL</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>nintendo_wc</accessory>
+            <accessory>nintendo_sh</accessory>
+        </accessories>
+    </tv>
+    <tv id="TCL 11">
+        <name>TCL - 75" Class - LED </name>
+        <price>1299.99</price>
+        <image>tcl4.jpg</image>
+        <manufacturer>TCL</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>nintendo_wc</accessory>
+            <accessory>nintendo_sh</accessory>
+        </accessories>
+    </tv>
+    <tv id="TCL 12">
+        <name>TCL - 55" Class - LED </name>
+        <price>349.99</price>
+        <image>Tcl2.jpg</image>
+        <manufacturer>TCL</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>nintendo_wc</accessory>
+            <accessory>nintendo_sh</accessory>
+        </accessories>
+    </tv>
+    <tv id="Vizio 13">
+        <name>VIZIO - 50" Class - LED </name>
+        <price>399.99</price>
+        <image>vvi1.jpg</image>
+        <manufacturer>Vizio</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>nintendo_wc</accessory>
+            <accessory>nintendo_sh</accessory>
+        </accessories>
+    </tv>
+    <tv id="Vizio 14">
+        <name>VIZIO - 55" Class - LED </name>
+        <price>599.99</price>
+        <image>vi3.jpg</image>
+        <manufacturer>Vizio</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>nintendo_wc</accessory>
+            <accessory>nintendo_sh</accessory>
+        </accessories>
+    </tv>
+    <tv id="Vizio 15">
+        <name>VIZIO - 65" Class - LED </name>
+        <price>1599.99</price>
+        <image>vi2.jpg</image>
+        <manufacturer>Vizio</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>nintendo_wc</accessory>
+            <accessory>nintendo_sh</accessory>
+        </accessories>
+    </tv>
+</TvCatalog>
+
+<SoundCatalog>
+    <sound id="Sony-Soundbar">
+        <name>Sony - 2.1-Channel 320W Soundbar System with Wireless Subwoofer - Black</name>
+        <price>199.99</price>
+        <image>sony1.jpg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+    </sound>
+    <sound id="Sony-Sound">
+        <name>Sony - 2.1-Channel Soundbar System with Wireless Subwoofer </name>
+        <price>599.99</price>
+        <image>sony22.jpg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+    </sound>
+    <sound id="JBL-wired">
+        <name>JBL Bar- 3.1</name>
+        <price>499.99</price>
+        <image>jbl1.jpg</image>
+        <manufacturer>JBL</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </sound>
+    <sound id="JBL-blue">
+        <name>JBL Bar 5.1</name>
+        <price>699.99</price>
+        <image>jb2.jpg</image>
+        <manufacturer>JBL</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </sound>
+    <sound id="JBL-bl">
+        <name>JBL Bar 2.1</name>
+        <price>299.99</price>
+        <image>jbl2.jpeg</image>
+        <manufacturer>JBL</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </sound>
+    <sound id="Mi bar">
+        <name>Mi Soundbar</name>
+        <price>99.99</price>
+        <image>mi1.jpg</image>
+        <manufacturer>Xiaomi</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </sound>
+    <sound id="Mi bar1">
+        <name>Mi Soundbar 5.1</name>
+        <price>199.99</price>
+        <image>mi2.jpg</image>
+        <manufacturer>Xiaomi</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </sound>
+    <sound id="logi1">
+        <name>Z606 5.1 Surround System
+</name>
+        <price>129.99</price>
+        <image>logi1.png</image>
+        <manufacturer>Logitech</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </sound>
+    <sound id="logi 2">
+        <name>Z625 Speaker System </name>
+        <price>169.99</price>
+        <image>logi3.png</image>
+        <manufacturer>Logitech</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </sound>
+    <sound id="jvc 1">
+        <name>Z625 Speaker System </name>
+        <price>169.99</price>
+        <image>jvc1.jpg</image>
+        <manufacturer>Jvc</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </sound>
+    <sound id="jvc 2">
+        <name>Z625 Speaker System </name>
+        <price>169.99</price>
+        <image>jvc2.jpg</image>
+        <manufacturer>Jvc</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </sound>
+
+</SoundCatalog>
+
+
+<ConsoleCatalog>
+    <console id="Xbox">
+    <name>Xbox</name>
+    <price>399.99</price>
+    <image>xbox1.jpg</image>
+    <manufacturer>Microsoft</manufacturer>
+    <condition>New</condition>
+    <discount>10.0</discount>
+    <accessories>
+            <accessory>xboxone_wc</accessory>
+            <accessory>xboxone_sh</accessory>
+			<accessory>xboxone_kg</accessory>
+            <accessory>xboxone_vb</accessory>
+			<accessory>xboxone_rs</accessory>
+            <accessory>xboxone_mp</accessory>
+			<accessory>xboxone_mc</accessory>
+			
+			
+        </accessories>
+    </console>
+    <console id="xbox360">
+        <name>xbox360</name>
+        <price>399.99</price>
+        <image>xbox360.jpg</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>xbox360_wc</accessory>
+            <accessory>xbox360_sh</accessory>
+			<accessory>xbox360_vb</accessory>
+			<accessory>xbox360_rs</accessory>
+			<accessory>xbox360_mp</accessory>
+			<accessory>xbox360_kg</accessory>
+        </accessories>
+    </console>
+
+    <console id="PS4">
+        <name>PS4</name>
+        <price>349.99</price>
+        <image>PS4-console-bundle.jpg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>ps4_wc</accessory>
+			
+        </accessories>
+    </console>
+    <console id="PS3">
+        <name>PS3</name>
+        <price>349.99</price>
+        <image>ps3.jpg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>ps3_wc</accessory>
+			
+        </accessories>
+    </console>
+    <console id="WII">
+        <name>WII</name>
+        <price>249.99</price>
+        <image>Wii-Console.png</image>
+        <manufacturer>Nintendo</manufacturer>
+        <condition>New</condition>
+        <discount>10.0</discount>
+        <accessories>
+            <accessory>nintendo_wc</accessory>
+            <accessory>nintendo_sh</accessory>
+        </accessories>
+    </console>
+</ConsoleCatalog>
+
+<TabletCatalog>
+    <tablet id="Apple 1">
+       <name> iPhone 11 Pro Max 64GB </name>
+        <price>1099.99</price>
+        <image>iphone11.jpg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+    </tablet>
+    <tablet id="Apple 2">
+        <name> iPhone 11 64GB  </name>
+        <price>699.99</price>
+        <image>iphone111.jpg</image>
+        <manufacturer>Apple</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+    </tablet>
+    <tablet id="Google 1">
+        <name> Pixel 3 XL 64GB </name>
+        <price>549.99</price>
+        <image>pixel33.jpg</image>
+        <manufacturer>Google</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </tablet>
+    <tablet id="google 2">
+        <name> Pixel 3 64GB </name>
+        <price>499.99</price>
+        <image>pixel2.png</image>
+        <manufacturer>Google</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </tablet>
+    <tablet id="Surface">
+        <name>Surface</name>
+        <price>299.99</price>
+        <image>m1.jpg</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </tablet>
+    <tablet id="Surface4">
+        <name>Surface Pro 4</name>
+        <price>299.99</price>
+        <image>m2.jpg</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </tablet>
+    <tablet id="Samsung Galaxy Note 8 64GB (Unlocked)">
+        <name> Galaxy Note10+  </name>
+        <price>500</price>
+        <image>s2.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </tablet>
+    <tablet id="oneplus 1 ">
+        <name>OnePlus 7 Pro</name>
+        <price>699.99</price>
+        <image>one.jpg</image>
+        <manufacturer>Oneplus</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </tablet>
+
+    <tablet id="realme1">
+        <name>Realme XT </name>
+        <price>299.99</price>
+        <image>r1.jpg</image>
+        <manufacturer>Realme</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </tablet>
+
+    <!--<tablet id="Samsung2">
+        <name>Samsung Tab 2</name>
+        <price>150.99</price>
+        <image>s1.jpg</image>
+        <manufacturer>Samsung</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </tablet> -->
+
+</TabletCatalog>
+<GamesCatalog>
+<game id="g1">
+        <name>JBL Bar- 3.1</name>
+        <price>499.99</price>
+        <image>jbl1.jpg</image>
+        <manufacturer>JBL</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</game>
+<game id="g2">
+        <name>JBL bar -5.1</name>
+        <price>699.99</price>
+        <image>jb2.jpg</image>
+        <manufacturer>JBL</manufacturer>
+        <condition>Refurbished</condition>
+        <discount>15.0</discount>
+</game>
+<game id="g3">
+        <name>Call Of Duty</name>
+        <price>50.99</price>
+        <image>activision_cod.jpg</image>
+        <manufacturer>Activision</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</game>
+<game id="g4">
+        <name>Evolve</name>
+        <price>50.99</price>
+        <image>tti_evolve.jpg</image>
+        <manufacturer>TakeTwoInteractive</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+</game>
+<game id="g5">
+        <name>Sony - 2.1-Channel </name>
+        <price>199.99</price>
+        <image>sony1.jpg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+    </game>
+    <game id="g6">
+        <name>Sony - 2.1-Channel  </name>
+        <price>599.99</price>
+        <image>sony22.jpg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+    </game>
+    <game id="g7">
+        <name>Mi Soundbar</name>
+        <price>99.99</price>
+        <image>mi1.jpg</image>
+        <manufacturer>Xiaomi</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </game>
+    <game id="g8">
+        <name>Mi Soundbar 5.1</name>
+        <price>199.99</price>
+        <image>mi2.jpg</image>
+        <manufacturer>Xiaomi</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </game>
+    <game id="g9">
+        <name>Z606 5.1 Surround System
+</name>
+        <price>129.99</price>
+        <image>logi1.png</image>
+        <manufacturer>Logitech</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </game>
+    <game id="g10">
+        <name>Z625 Speaker System </name>
+        <price>169.99</price>
+        <image>logi3.png</image>
+        <manufacturer>Logitech</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </game>
+    
+<game id="g11">
+        <name>Z625  </name>
+        <price>199.99</price>
+        <image>jvc2.jpg</image>
+        <manufacturer>Jvc</manufacturer>
+        <condition>New</condition>
+        <discount>15.0</discount>
+    </game>
+</GamesCatalog>
+
+<AccessoryCatalog>
+
+    <accessory id="xboxone_wc">
+        <name>Samsung Remote Control</name>
+        <price>9.99</price>
+        <image>r1.jpg</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+
+    <accessory id="xboxone_sh">
+        <name>TV Stand</name>
+        <price>16.99</price>
+        <image>stand.jpg</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+	 
+	 <accessory id="xboxone_vb">
+        <name>Chromecast</name>
+        <price>69.99</price>
+        <image>ch.jpg</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+
+    <accessory id="xboxone_kg">
+        <name>HDMI Cable</name>
+        <price>19.99</price>
+        <image>hdmi.jpg</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+	 
+	 <accessory id="xboxone_rs">
+        <name>Amazon Fire Stick</name>
+        <price>69.99</price>
+        <image>am.jpg</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+
+    <accessory id="xboxone_mp">
+        <name>Hub</name>
+        <price>29.99</price>
+        <image>hub.jpg</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+	 
+	 <accessory id="xboxone_mc">
+        <name>Multiple Plug </name>
+        <price>69.99</price>
+        <image>p1.jpg</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+	 
+
+    <accessory id="xbox360_wc">
+        <name>XBOX Speeding Wheel</name>
+        <price>89.99</price>
+        <image>XBOX360-SpeedWheel.jpg</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+
+    <accessory id="xbox360_sh">
+        <name>XBOX Wireless Adapter</name>
+        <price>89.99</price>
+        <image>xbox360_wa.png</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+	 
+	 <accessory id="xbox360_vb">
+        <name>Remote</name>
+        <price>89.99</price>
+        <image>remote.jpg</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+	 	 <accessory id="xbox360_rs">
+        <name>messengerkit</name>
+        <price>89.99</price>
+        <image>messengerkit.jpg</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+	 
+	 	 <accessory id="xbox360_mp">
+        <name>Steering</name>
+        <price>89.99</price>
+        <image>steering.jpg</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+	 
+	 	 <accessory id="xbox360_kg">
+        <name>Charger</name>
+        <price>89.99</price>
+        <image>charger.jpg</image>
+        <manufacturer>Microsoft</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+
+    <accessory id="ps4_wc">
+        <name>PS Controller</name>
+        <price>89.99</price>
+        <image>XBOX controller.jpg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+
+    <accessory id="ps3_wc">
+        <name>PS Gaming HeadPhones</name>
+        <price>89.99</price>
+        <image>Turtle Beach Headset.jpg</image>
+        <manufacturer>Sony</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+
+    <accessory id="nintendo_wc">
+        <name>Nintendo Controller</name>
+        <price>89.99</price>
+        <image>Wii1.jpg</image>
+        <manufacturer>Nintendo</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+
+    <accessory id="nintendo_sh">
+        <name>Nintendo Racing Controller</name>
+        <price>89.99</price>
+        <image>Wii2.jpg</image>
+        <manufacturer>Nintendo</manufacturer>
+        <condition>New</condition>
+        <discount>40.0</discount>
+     </accessory>
+	 
+  
+
+</AccessoryCatalog>
+
+
+
+
+
+</ProductCatalog>
